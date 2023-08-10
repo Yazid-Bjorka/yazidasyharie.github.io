@@ -16,15 +16,3 @@ footer {
 }
 
 /* My Keyboard Section*/
-.keyboard-box {
-  position: relative;
-  background-color: #6610f2;
-  border-radius: 10px;
-  height: 500px;
-}
-
-.keyboard-box: :before {
-  content: "MY";
-  position: absolute;
-  color: #ffff;
-}
