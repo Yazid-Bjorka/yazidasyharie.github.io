@@ -1,5 +1,5 @@
 .jumbotron {
-  padding-top: 6rem;
+  padding-top: 7rem;
   background-color: #c1bdff;
 }
 
@@ -15,4 +15,12 @@ footer {
   background-color: #6610f2;
 }
 
-/* My Keyboard Section*/
+link {
+  display: none;
+}
+
+.logo img {
+  width: 40px;
+  margin-right: 8px;
+  margin-left: 10px;
+}
